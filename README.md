@@ -2,4 +2,4 @@
 
 Data driver testing in web using Excel. 
 
-syste logs are enabled
+system logs are enabled
