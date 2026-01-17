@@ -2,12 +2,12 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
     <listeners>
-        <listener class-name="org.practice.src.test.java.utils.ExtentListener"/>
+        <listener class-name="utils.ExtentListener"/>
     </listeners>
-    <test verbose="2" preserve-order="true" name="C:\Users\apoorva\IdeaProjects\DDT-web-Hybrid-framework-Excel">
+    <test verbose="2" name="C:\Users\apoorva\IdeaProjects\DDT-web-Hybrid-framework-Excel">
         <classes>
-            <class name="org.practice.src.test.java.test.LoginTest" >
-            </class>
+
+          <class name="test.RegisterTest"></class>
         </classes>
     </test>
 </suite>

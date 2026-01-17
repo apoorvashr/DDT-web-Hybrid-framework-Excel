@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+
+    <Appenders>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss} %-5level [%t] %c{1} - %msg%n"/>
+        </Console>
+    </Appenders>
+
+    <Loggers>
+
+        <!-- ✅ YOUR FRAMEWORK LOGS -->
+        <Logger name="org.practice" level="info" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+
+        <!-- ❌ DISABLE TESTNG INTERNAL LOGS -->
+        <Logger name="org.testng" level="error" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+
+        <!-- ❌ DISABLE TESTNG UTILS SPAM -->
+        <Logger name="org.testng.internal" level="error" additivity="false">
+            <AppenderRef ref="Console"/>
+        </Logger>
+        <!-- root -->
+        <Root level="info">
+            <AppenderRef ref="Console"/>
+        </Root>
+
+    </Loggers>
+
+</Configuration>

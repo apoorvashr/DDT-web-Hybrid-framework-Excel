@@ -1,9 +1,0 @@
-org\practice\src\test\java\page\LoginPage.class
-org\practice\src\test\java\test\BaseTest.class
-org\practice\src\test\java\utils\ExtentListener.class
-org\practice\App.class
-org\practice\src\test\java\test\LoginTest.class
-org\practice\src\test\java\utils\ExtentManager.class
-org\practice\src\test\java\utils\ExcelUtils.class
-org\practice\src\test\java\page\BasePage.class
-org\practice\src\test\java\utils\ScreenshotUtil.class

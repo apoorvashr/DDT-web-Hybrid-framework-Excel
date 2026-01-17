@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="285abafc-07a4-4cc1-8c36-1b16764a03ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/src/main/java/org/practice/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/src/test/java/page/BasePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/src/test/java/page/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/src/test/java/test/BaseTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/src/test/java/test/LoginTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/src/test/java/utils/ExcelUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/src/test/java/utils/ExtentListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/src/test/java/utils/ExtentManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/src/test/java/utils/ExtentManager1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/src/test/java/utils/ScreenshotUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/src/test/resources/Config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practice/src/test/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/DDTwebHybridframeworkExcel-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/practice/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/practice/src/test/java/page/BasePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/practice/src/test/java/page/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/practice/src/test/java/test/BaseTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/practice/src/test/java/test/LoginTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/practice/src/test/java/utils/ExcelUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/practice/src/test/java/utils/ExtentListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/practice/src/test/java/utils/ExtentManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/practice/src/test/java/utils/ScreenshotUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.mvn/jvm.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/.mvn/maven.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DDTwebHybridframeworkExcel.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/reports/ExtentReport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/reports/screenshots/loginTobankAccount_1768334410858.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/reports/screenshots/loginTobankAccount_1768334739842.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/src/main/java/org/practice/src/test/resources/Config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/src/main/java/org/practice/src/test/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/DDTwebHybridframeworkExcel-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testdata/TestData.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testdata/TestData.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testdata/TestData.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="38LG5d1sZ2aLRTUHCjzFYx87WOk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Users/apoorva/IdeaProjects/DDT-web-Hybrid-framework-Excel/testng.xml (1).executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Users/apoorva/IdeaProjects/DDT-web-Hybrid-framework-Excel/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/apoorva/IdeaProjects/DDT-web-Hybrid-framework-Excel/src/test/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.21974522&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\apoorva\IdeaProjects\DDT-web-Hybrid-framework-Excel\src\test\resources" />
+      <recent name="C:\Users\apoorva\IdeaProjects\DDT-web-Hybrid-framework-Excel\src\main\java\org\practice\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\apoorva\IdeaProjects\DDT-web-Hybrid-framework-Excel\src\main\java\org\practice\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/apoorva/IdeaProjects/DDT-web-Hybrid-framework-Excel/testng.xml (1)">
+    <configuration name="C:/Users/apoorva/IdeaProjects/DDT-web-Hybrid-framework-Excel/testng.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DDTwebHybridframeworkExcel" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/apoorva/IdeaProjects/DDT-web-Hybrid-framework-Excel/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DDTwebHybridframeworkExcel" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-Dlog4j.configurationFile=src/test/resources/log4j2.xml " />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/apoorva/IdeaProjects/DDT-web-Hybrid-framework-Excel/testng.xml" type="TestNG" editBeforeRun="true" focusToolWindowBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="25" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/apoorva/IdeaProjects/DDT-web-Hybrid-framework-Excel/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="DDTwebHybridframeworkExcel" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-Dlog4j.configurationFile=log4j2.xml" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/apoorva/IdeaProjects/DDT-web-Hybrid-framework-Excel/testng.xml (1)" />
+        <item itemvalue="TestNG.C:/Users/apoorva/IdeaProjects/DDT-web-Hybrid-framework-Excel/testng.xml (1)" />
+        <item itemvalue="TestNG.C:/Users/apoorva/IdeaProjects/DDT-web-Hybrid-framework-Excel/testng.xml (1)" />
+        <item itemvalue="TestNG.C:/Users/apoorva/IdeaProjects/DDT-web-Hybrid-framework-Excel/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="285abafc-07a4-4cc1-8c36-1b16764a03ad" name="Changes" comment="" />
+      <created>1768571255684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768571255684</updated>
+    </task>
+    <servers />
+  </component>
+</project>
